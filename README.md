@@ -1,4 +1,4 @@
-# bayesbasico
+# Naive Bayes
 
 Aplicación de naive bayes para datos discretos.
 
